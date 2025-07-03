@@ -1,0 +1,16 @@
+Food billing System
+Name:kri
+Mobile no:932737312
+Date:2025-07-02
+
+------------------
+Food Item:pizza
+Price:190
+Qty:3
+
+-----------------
+Total Bill:570
+Gst:102.6
+
+-----------------
+Grand Total:672.6
