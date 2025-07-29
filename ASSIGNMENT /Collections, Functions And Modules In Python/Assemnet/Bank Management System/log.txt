@@ -1,0 +1,7 @@
+2025-07-26 19:33:36.753331 - Added customer krishna with account 909807070
+2025-07-26 19:33:40.316662 - Viewed all customers
+2025-07-26 19:33:51.335340 - Searched account riya - Not found
+2025-07-26 19:33:55.611913 - Checked total bank amount
+2025-07-26 19:34:18.386139 - krishna viewed balance
+2025-07-26 19:34:43.197882 - krishna withdrew ₹50000.0
+2025-07-26 19:38:30.880594 - Added customer yash with account 26
